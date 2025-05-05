@@ -60,10 +60,14 @@ See the full report in the [`loan_approval_prediction.ipynb`](./loan_approval_pr
 ## 📂 Structure 
 Supervised_ML/
 
----loan_approval_dataset.csv
+* Dataset
 
----loan_approval_prediction.ipynb
+   * loan_approval_dataset.csv
 
----report.pdf
+* Loan_approval_prediction
 
----README.md
+   * loan_approval_prediction.ipynb
+
+* Report.pdf
+
+* README.md
